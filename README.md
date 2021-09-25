@@ -1,1 +1,1 @@
-# Robotic-Rehabilitation-Ankle-Therapy-Control-
+# Robotic Rehabilitation for Ankle Therapy Control
